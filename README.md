@@ -1,2 +1,2 @@
-# Pratik-D.-Taralkar
+# Pratik D. Taralkar
 Python Program
